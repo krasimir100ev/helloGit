@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 az sum krasi
+=======
+az sum niki
+>>>>>>> 19f7f2bc7744c73a000088ceb29c2a0264c5449c
